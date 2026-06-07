@@ -19,7 +19,7 @@ However, GIS is not just business for me. I am currently attending Delta State U
 
 ### [🏆 Check Out My Full Portfolio Website](https://apeters4072.github.io/apeters.github.io/index.html)
 
-## 🛠️ Technical Skillset
+<!-- ## 🛠️ Technical Skillset -->
 
 <!-- This section uses Shields.io badges -->
 
