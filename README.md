@@ -3,7 +3,7 @@
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Geospatial+Intelligence+%7C+Imagery+Intelligence;Producing+Clean+and+Readable+Maps;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Geospatial+&+%7C+Imagery+Intelligence;Producing+Clean+and+Readable+Maps;Cartography+&+Visualization;5+Years+Experience+%7C+TS/SCI+Clearance" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
